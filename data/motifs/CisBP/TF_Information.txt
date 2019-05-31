@@ -1,0 +1,147 @@
+TF_ID	TF_Name	Species_Name	Status	Gene_ID	Family	Motif_ID
+T007242_1.02	DDB_G0275333	Dictyostelium_discoideum	D	DDB_G0275333	ARID/BRIGHT	M0101_1.02,
+T024497_1.02	bzpD	Dictyostelium_discoideum	D	DDB_G0278379	bZIP	M0284_1.02,
+T024499_1.02	bzpF	Dictyostelium_discoideum	D	DDB_G0279529	bZIP	M0285_1.02,
+T024496_1.02	bzpH	Dictyostelium_discoideum	D	DDB_G0277681	bZIP	M0283_1.02,
+T024495_1.02	bzpJ	Dictyostelium_discoideum	D	DDB_G0274993	bZIP	M0282_1.02,
+T024509_1.02	bzpO	Dictyostelium_discoideum	D	DDB_G0290169	bZIP	M0287_1.02,
+T024506_1.02	bzpQ	Dictyostelium_discoideum	D	DDB_G0288705	bZIP	M0286_1.02,
+T024510_1.02	bzpS	Dictyostelium_discoideum	D	DDB_G0290171	bZIP	M0288_1.02,
+T024513_1.02	dimB	Dictyostelium_discoideum	D	DDB_G0291372	bZIP	M0289_1.02,
+T076572_1.02	E2F	Dictyostelium_discoideum	D	DDB_G0284129	E2F	M0666_1.02,
+T084531_1.02	gtaC	Dictyostelium_discoideum	D	DDB_G0277589	GATA	M0776_1.02,
+T084527_1.02	gtaE	Dictyostelium_discoideum	D	DDB_G0267640	GATA	M0773_1.02,
+T084529_1.02	gtaG	Dictyostelium_discoideum	D	DDB_G0270756	GATA	M0774_1.02,
+T084532_1.02	gtaH	Dictyostelium_discoideum	D	DDB_G0277591	GATA	M0777_1.02,
+T084540_1.02	gtaI	Dictyostelium_discoideum	D	DDB_G0281661	GATA	M0779_1.02,
+T084543_1.02	gtaL	Dictyostelium_discoideum	D	DDB_G0285139	GATA	M0780_1.02,
+T084546_1.02	gtaN	Dictyostelium_discoideum	D	DDB_G0287057	GATA	M0781_1.02,
+T084537_1.02	gtaT	Dictyostelium_discoideum	D	DDB_G0280639	GATA	M0778_1.02,
+T084530_1.02	stkA	Dictyostelium_discoideum	D	DDB_G0277147	GATA	M0775_1.02,
+T091076_1.02	hbx10	Dictyostelium_discoideum	D	DDB_G0284293	Homeodomain	M0878_1.02,
+T091071_1.02	hbx2	Dictyostelium_discoideum	D	DDB_G0275173	Homeodomain	M0875_1.02,
+T091068_1.02	hbx4	Dictyostelium_discoideum	D	DDB_G0272967	Homeodomain	M0872_1.02,
+T091069_1.02	hbx5-1	Dictyostelium_discoideum	D	DDB_G0273127	Homeodomain	M0873_1.02,
+T091070_1.02	hbx5-2	Dictyostelium_discoideum	D	DDB_G0273645	Homeodomain	M0874_1.02,
+T091073_1.02	hbx7	Dictyostelium_discoideum	D	DDB_G0278225	Homeodomain	M0876_1.02,
+T091075_1.02	hbx9	Dictyostelium_discoideum	D	DDB_G0280473	Homeodomain	M0877_1.02,
+T111370_1.02	srfA	Dictyostelium_discoideum	D	DDB_G0281387	MADS box	M1297_1.02,
+T117776_1.02	mybA	Dictyostelium_discoideum	D	DDB_G0293900	Myb/SANT	M1354_1.02,
+T117749_1.02	mybAA	Dictyostelium_discoideum	D	DDB_G0268368	Myb/SANT	M1347_1.02,
+T117763_1.02	mybE	Dictyostelium_discoideum	D	DDB_G0281969	Myb/SANT	M1349_1.02,
+T117770_1.02	mybG	Dictyostelium_discoideum	D	DDB_G0288783	Myb/SANT	M1351_1.02,
+T117771_1.02	mybI	Dictyostelium_discoideum	D	DDB_G0289151	Myb/SANT	M1352_1.02,
+T117772_1.02	mybQ	Dictyostelium_discoideum	D	DDB_G0289319	Myb/SANT	M1353_1.02,
+T117759_1.02	mybV	Dictyostelium_discoideum	D	DDB_G0279281	Myb/SANT	M1348_1.02,
+T117765_1.02	mybZ	Dictyostelium_discoideum	D	DDB_G0284103	Myb/SANT	M1350_1.02,
+T153669_1.02	gbfA	Dictyostelium_discoideum	D	DDB_G0288755	Unknown	M1673_1.02,	M2427_1.02,
+T161723_1.02	DDB_G0270590	Dictyostelium_discoideum	D	DDB_G0270590	Zinc cluster	M1714_1.02,
+T008654_1.02	DDB_G0284871	Dictyostelium_discoideum	I	DDB_G0284871	AT hook
+T024511_1.02	bzpI	Dictyostelium_discoideum	I	DDB_G0290173	bZIP
+T070473_1.02	nfyA	Dictyostelium_discoideum	I	DDB_G0282697	CBF/NF-Y
+T084542_1.02	gtaK	Dictyostelium_discoideum	I	DDB_G0282811	GATA
+T084547_1.02	gtaO	Dictyostelium_discoideum	I	DDB_G0289651	GATA
+T084545_1.02	gtaQ	Dictyostelium_discoideum	I	DDB_G0286843	GATA
+T111371_1.02	srfB	Dictyostelium_discoideum	I	DDB_G0282835	MADS box
+T150498_1.02	tbpA	Dictyostelium_discoideum	I	DDB_G0275617	TBP
+T154248_1.02	wrky1	Dictyostelium_discoideum	I	DDB_G0275267	WRKY
+T000077_1.02	cog5	Dictyostelium_discoideum	N	DDB_G0289535	ABF1
+T000071_1.02	DDB_G0268704	Dictyostelium_discoideum	N	DDB_G0268704	ABF1
+T000072_1.02	DDB_G0277047	Dictyostelium_discoideum	N	DDB_G0277047	ABF1
+T000073_1.02	DDB_G0279743	Dictyostelium_discoideum	N	DDB_G0279743	ABF1
+T000075_1.02	DDB_G0285055	Dictyostelium_discoideum	N	DDB_G0285055	ABF1
+T000076_1.02	DDB_G0286381	Dictyostelium_discoideum	N	DDB_G0286381	ABF1
+T000074_1.02	mkcE	Dictyostelium_discoideum	N	DDB_G0281649	ABF1
+T007241_1.02	rbbB	Dictyostelium_discoideum	N	DDB_G0268778	ARID/BRIGHT
+T011051_1.02	sf3b4	Dictyostelium_discoideum	N	DDB_G0267714	BBR
+T024498_1.02	bzpC	Dictyostelium_discoideum	N	DDB_G0279439	bZIP
+T024493_1.02	bzpE	Dictyostelium_discoideum	N	DDB_G0269338	bZIP
+T024502_1.02	bzpG	Dictyostelium_discoideum	N	DDB_G0282749	bZIP
+T024501_1.02	bzpK	Dictyostelium_discoideum	N	DDB_G0282049	bZIP
+T024504_1.02	bzpL	Dictyostelium_discoideum	N	DDB_G0284023	bZIP
+T024500_1.02	bzpM	Dictyostelium_discoideum	N	DDB_G0282047	bZIP
+T024505_1.02	bzpN	Dictyostelium_discoideum	N	DDB_G0286411	bZIP
+T024512_1.02	bzpP	Dictyostelium_discoideum	N	DDB_G0290303	bZIP
+T024508_1.02	bzpR	Dictyostelium_discoideum	N	DDB_G0290165	bZIP
+T024494_1.02	DDB_G0269578	Dictyostelium_discoideum	N	DDB_G0269578	bZIP
+T024503_1.02	DDB_G0283771	Dictyostelium_discoideum	N	DDB_G0283771	bZIP
+T024507_1.02	DDB_G0288991	Dictyostelium_discoideum	N	DDB_G0288991	bZIP
+T024514_1.02	DDB_G0292520	Dictyostelium_discoideum	N	DDB_G0292520	bZIP
+T038607_1.02	DDB_G0283201	Dictyostelium_discoideum	N	DDB_G0283201	C2H2 ZF
+T038608_1.02	DDB_G0285673	Dictyostelium_discoideum	N	DDB_G0285673	C2H2 ZF
+T038609_1.02	DDB_G0288277	Dictyostelium_discoideum	N	DDB_G0288277	C2H2 ZF
+T038610_1.02	DDB_G0291342	Dictyostelium_discoideum	N	DDB_G0291342	C2H2 ZF
+T038606_1.02	TFIIIA	Dictyostelium_discoideum	N	DDB_G0281085	C2H2 ZF
+T073074_1.02	racJ	Dictyostelium_discoideum	N	DDB_G0292560	CSL
+T073850_1.02	DDB_G0281519	Dictyostelium_discoideum	N	DDB_G0281519	CxC
+T075063_1.02	DDB_G0272454	Dictyostelium_discoideum	N	DDB_G0272454	DM
+T075585_1.02	DDB_G0287551	Dictyostelium_discoideum	N	DDB_G0287551	Dof
+T076280_1.02	tfdp2	Dictyostelium_discoideum	N	DDB_G0276799	DP,E2F
+T076571_1.02	DDB_G0271994	Dictyostelium_discoideum	N	DDB_G0271994	E2F
+T081132_1.02	DDB_G0269264	Dictyostelium_discoideum	N	DDB_G0269264	Forkhead
+T081133_1.02	DDB_G0269956	Dictyostelium_discoideum	N	DDB_G0269956	Forkhead
+T081134_1.02	DDB_G0271026	Dictyostelium_discoideum	N	DDB_G0271026	Forkhead
+T081135_1.02	DDB_G0276211	Dictyostelium_discoideum	N	DDB_G0276211	Forkhead
+T081136_1.02	DDB_G0279771	Dictyostelium_discoideum	N	DDB_G0279771	Forkhead
+T081137_1.02	DDB_G0293160	Dictyostelium_discoideum	N	DDB_G0293160	Forkhead
+T084535_1.02	comH	Dictyostelium_discoideum	N	DDB_G0280547	GATA
+T084528_1.02	gtaF	Dictyostelium_discoideum	N	DDB_G0268792	GATA
+T084541_1.02	gtaJ	Dictyostelium_discoideum	N	DDB_G0281829	GATA
+T084549_1.02	gtaP	Dictyostelium_discoideum	N	DDB_G0295707	GATA
+T084534_1.02	gtaR	Dictyostelium_discoideum	N	DDB_G0279331	GATA
+T084536_1.02	gtaS	Dictyostelium_discoideum	N	DDB_G0280627	GATA
+T084538_1.02	gtaU	Dictyostelium_discoideum	N	DDB_G0280853	GATA
+T084539_1.02	gtaV	Dictyostelium_discoideum	N	DDB_G0281087	GATA
+T084544_1.02	gtaW	Dictyostelium_discoideum	N	DDB_G0286839	GATA
+T084548_1.02	gtaX	Dictyostelium_discoideum	N	DDB_G0290665	GATA
+T084533_1.02	gtaY	Dictyostelium_discoideum	N	DDB_G0279239	GATA
+T091077_1.02	hbx12	Dictyostelium_discoideum	N	DDB_G0286733	Homeodomain
+T091078_1.02	hbx14	Dictyostelium_discoideum	N	DDB_G0289677	Homeodomain
+T091080_1.02	hbx3	Dictyostelium_discoideum	N	DDB_G0291197	Homeodomain
+T091072_1.02	hbx6	Dictyostelium_discoideum	N	DDB_G0277505	Homeodomain
+T091074_1.02	hbx8	Dictyostelium_discoideum	N	DDB_G0279257	Homeodomain
+T091079_1.02	warA	Dictyostelium_discoideum	N	DDB_G0291075	Homeodomain
+T105826_1.02	DDB_G0281165	Dictyostelium_discoideum	N	DDB_G0281165	HSF
+T107953_1.02	DDB_G0288137	Dictyostelium_discoideum	N	DDB_G0288137	Leafy
+T111369_1.02	srfC	Dictyostelium_discoideum	N	DDB_G0268920	MADS box
+T111372_1.02	srfD	Dictyostelium_discoideum	N	DDB_G0283483	MADS box
+T117750_1.02	aatA	Dictyostelium_discoideum	N	DDB_G0268664	Myb/SANT
+T117760_1.02	cdc5l	Dictyostelium_discoideum	N	DDB_G0279311	Myb/SANT
+T117755_1.02	DDB_G0277033	Dictyostelium_discoideum	N	DDB_G0277033	Myb/SANT
+T117757_1.02	DDB_G0278179	Dictyostelium_discoideum	N	DDB_G0278179	Myb/SANT
+T117761_1.02	DDB_G0280079	Dictyostelium_discoideum	N	DDB_G0280079	Myb/SANT
+T117768_1.02	DDB_G0286135	Dictyostelium_discoideum	N	DDB_G0286135	Myb/SANT
+T117775_1.02	isw	Dictyostelium_discoideum	N	DDB_G0292948	Myb/SANT
+T117753_1.02	mybB	Dictyostelium_discoideum	N	DDB_G0275445	Myb/SANT
+T117762_1.02	mybC	Dictyostelium_discoideum	N	DDB_G0281563	Myb/SANT
+T117769_1.02	mybD	Dictyostelium_discoideum	N	DDB_G0287637	Myb/SANT
+T117758_1.02	mybF	Dictyostelium_discoideum	N	DDB_G0278317	Myb/SANT
+T117756_1.02	mybH	Dictyostelium_discoideum	N	DDB_G0277927	Myb/SANT
+T117752_1.02	mybJ	Dictyostelium_discoideum	N	DDB_G0274463	Myb/SANT
+T117754_1.02	mybK	Dictyostelium_discoideum	N	DDB_G0276877	Myb/SANT
+T117767_1.02	mybL	Dictyostelium_discoideum	N	DDB_G0285373	Myb/SANT
+T117748_1.02	mybM	Dictyostelium_discoideum	N	DDB_G0267636	Myb/SANT
+T117774_1.02	mybN	Dictyostelium_discoideum	N	DDB_G0292782	Myb/SANT
+T117773_1.02	mybO	Dictyostelium_discoideum	N	DDB_G0290787	Myb/SANT
+T117751_1.02	mybP	Dictyostelium_discoideum	N	DDB_G0270560	Myb/SANT
+T117764_1.02	mybU	Dictyostelium_discoideum	N	DDB_G0283953	Myb/SANT
+T117766_1.02	mybY	Dictyostelium_discoideum	N	DDB_G0284399	Myb/SANT
+T128278_1.02	DDB_G0284063	Dictyostelium_discoideum	N	DDB_G0284063	NAC/NAM
+T130437_1.02	DDB_G0292186	Dictyostelium_discoideum	N	DDB_G0292186	Ndt80/PhoG
+T130436_1.02	rcdK	Dictyostelium_discoideum	N	DDB_G0284183	Ndt80/PhoG
+T130716_1.02	DDB_G0293590	Dictyostelium_discoideum	N	DDB_G0293590	NFX
+T132150_1.02	DDB_G0284317	Dictyostelium_discoideum	N	DDB_G0284317	Nuclear receptor
+T136728_1.02	DDB_G0269962	Dictyostelium_discoideum	N	DDB_G0269962	Pipsqueak
+T137661_1.02	pks42	Dictyostelium_discoideum	N	DDB_G0292544	POU
+T139551_1.02	DDB_G0274295	Dictyostelium_discoideum	N	DDB_G0274295	RWP-RK
+T139552_1.02	DDB_G0280491	Dictyostelium_discoideum	N	DDB_G0280491	RWP-RK
+T139553_1.02	DDB_G0286921	Dictyostelium_discoideum	N	DDB_G0286921	RWP-RK
+T139554_1.02	DDB_G0291700	Dictyostelium_discoideum	N	DDB_G0291700	RWP-RK
+T140549_1.02	DDB_G0281621	Dictyostelium_discoideum	N	DDB_G0281621	SART-1
+T143455_1.02	DDB_G0279661	Dictyostelium_discoideum	N	DDB_G0279661	Sox
+T143456_1.02	DDB_G0282427	Dictyostelium_discoideum	N	DDB_G0282427	Sox
+T143457_1.02	DDB_G0287073	Dictyostelium_discoideum	N	DDB_G0287073	Sox
+T143458_1.02	DDB_G0287433	Dictyostelium_discoideum	N	DDB_G0287433	Sox
+T143454_1.02	nhp6	Dictyostelium_discoideum	N	DDB_G0270260	Sox
+T161724_1.02	DDB_G0274877	Dictyostelium_discoideum	N	DDB_G0274877	Zinc cluster
+T161725_1.02	DDB_G0291348	Dictyostelium_discoideum	N	DDB_G0291348	Zinc cluster

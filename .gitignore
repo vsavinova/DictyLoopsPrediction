@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+data/background/*
+*.icloud
+data/~$*
+*.xml
+*.iml
+.idea/*
